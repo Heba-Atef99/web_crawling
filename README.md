@@ -1,4 +1,4 @@
-# web_crawling
+# web_scraping
 •Scrap phones title, prices, and images from [this webpage](https://www.amazon.eg/s?k=samsung&rh=p_89%3Asamsung&language=en&ref=SQEG-WEB-SR301) and save it as a CSV file anlong with the images.   
 
 •Scrap books title, and prices from [this webpage](https://www.amazon.in/gp/bestsellers/books/) and save it as a CSV file.   
